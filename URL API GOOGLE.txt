@@ -1,22 +1,25 @@
 App da Web
 URL
-https://script.google.com/macros/s/AKfycbwdbgv5u_NQ-eW2AOs7P54FKiK7KoLAUqbUGvIjsHoN2oyjg1vd7AumwlQRSTj2fi9FgA/exec
+https://script.google.com/macros/s/AKfycbybPAaC_KmS38XVO1VyjCUwkh-uN7kh6O3MT49h8vtfCicp0AYegQJXBMnDTAnKtrJoyg/exec
 -------------------
 
 
+==========================
+GITHUB: https://luisgaldino-dev.github.io/FinancaFacil/
+==========================
 
 
 ABAS ENDPOINTS
 
-https://script.google.com/macros/s/AKfycbwdbgv5u_NQ-eW2AOs7P54FKiK7KoLAUqbUGvIjsHoN2oyjg1vd7AumwlQRSTj2fi9FgA/exec?action=init&email=luisgaldino.dev@gmail.com
+https://script.google.com/macros/s/AKfycbybPAaC_KmS38XVO1VyjCUwkh-uN7kh6O3MT49h8vtfCicp0AYegQJXBMnDTAnKtrJoyg/exec?action=init&email=luisgaldino.dev@gmail.com
 
-https://script.google.com/macros/s/AKfycbwdbgv5u_NQ-eW2AOs7P54FKiK7KoLAUqbUGvIjsHoN2oyjg1vd7AumwlQRSTj2fi9FgA/exec?action=transacoes&email=luisgaldino.dev@gmail.com
+https://script.google.com/macros/s/AKfycbybPAaC_KmS38XVO1VyjCUwkh-uN7kh6O3MT49h8vtfCicp0AYegQJXBMnDTAnKtrJoyg/exec?action=transacoes&email=luisgaldino.dev@gmail.com
 
-https://script.google.com/macros/s/AKfycbwdbgv5u_NQ-eW2AOs7P54FKiK7KoLAUqbUGvIjsHoN2oyjg1vd7AumwlQRSTj2fi9FgA/exec?action=pessoas&email=luisgaldino.dev@gmail.com
+https://script.google.com/macros/s/AKfycbybPAaC_KmS38XVO1VyjCUwkh-uN7kh6O3MT49h8vtfCicp0AYegQJXBMnDTAnKtrJoyg/exec?action=pessoas&email=luisgaldino.dev@gmail.com
 
-https://script.google.com/macros/s/AKfycbwdbgv5u_NQ-eW2AOs7P54FKiK7KoLAUqbUGvIjsHoN2oyjg1vd7AumwlQRSTj2fi9FgA/exec?action=pessoas&email=luisgaldino.dev@gmail.com
+https://script.google.com/macros/s/AKfycbybPAaC_KmS38XVO1VyjCUwkh-uN7kh6O3MT49h8vtfCicp0AYegQJXBMnDTAnKtrJoyg/exec/exec?action=pessoas&email=luisgaldino.dev@gmail.com
 
-https://script.google.com/macros/s/AKfycbwdbgv5u_NQ-eW2AOs7P54FKiK7KoLAUqbUGvIjsHoN2oyjg1vd7AumwlQRSTj2fi9FgA/exec?action=gastos_futuro&email=luisgaldino.dev@gmail.com
+https://script.google.com/macros/s/AKfycbybPAaC_KmS38XVO1VyjCUwkh-uN7kh6O3MT49h8vtfCicp0AYegQJXBMnDTAnKtrJoyg/exec/exec?action=gastos_futuro&email=luisgaldino.dev@gmail.com
 
 ?action=dashboard
 
