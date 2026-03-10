@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Configuração - Portal Financeiro</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header><h1>Configuração Administrativa</h1></header>
+  <nav>
+    <a href="index.html">Dashboard</a>
+    <a href="transacoes.html">Transações</a>
+    <a href="planejamento.html">Planejamento</a>
+    <a href="contas.html">Contas</a>
+    <a href="configuracao.html" id="linkAdmin">Configuração</a>
+    <a href="login.html">Sair</a>
+  </nav>
+  <main>
+    <h2>Pessoas</h2>
+    <button id="addPessoa">Adicionar Pessoa</button>
+    <table id="tabelaPessoas">
+      <thead>
+        <tr><th>Nome</th><th>Email</th><th>Perfil</th><th>Ações</th></tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+
+    <h2>Contas</h2>
+    <button id="addConta">Adicionar Conta</button>
+    <table id="tabelaContasConfig">
+      <thead>
+        <tr><th>Nome</th><th>Tipo</th><th>Ações</th></tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+
+    <h2>Categorias</h2>
+    <button id="addCategoria">Adicionar Categoria</button>
+    <table id="tabelaCategorias">
+      <thead>
+        <tr><th>Categoria</th><th>Descrição</th><th>Ações</th></tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </main>
+
+  <script src="js/api.js"></script>
+  <script src="js/configuracao.js"></script>
+</body>
+</html>

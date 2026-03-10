@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Planejamento - Portal Financeiro</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header><h1>Planejamento Financeiro</h1></header>
+  <nav>
+    <a href="index.html">Dashboard</a>
+    <a href="transacoes.html">Transações</a>
+    <a href="planejamento.html">Planejamento</a>
+    <a href="contas.html">Contas</a>
+    <a href="configuracao.html" id="linkAdmin">Configuração</a>
+    <a href="login.html">Sair</a>
+  </nav>
+  <main>
+    <label>Selecione o mês: <input type="month" id="mesFiltro"></label>
+    <button id="btnFiltrar">Filtrar</button>
+
+    <table id="tabelaPlanejamento">
+      <thead>
+        <tr>
+          <th>Data</th><th>Descrição</th><th>Categoria</th><th>Conta</th><th>Valor</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </main>
+
+  <script src="js/api.js"></script>
+  <script src="js/planejamento.js"></script>
+</body>
+</html>

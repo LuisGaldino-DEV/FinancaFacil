@@ -1,0 +1,22 @@
+<form id="formNovaTransacao">
+  <label>Data:</label>
+  <input type="date" id="data_transacao" required>
+
+  <label>Tipo:</label>
+  <label><input type="radio" name="tipo" value="C" checked> Crédito</label>
+  <label><input type="radio" name="tipo" value="D"> Débito</label>
+
+  <label>Conta:</label>
+  <select id="conta" required></select>
+
+  <label>Categoria:</label>
+  <select id="categoria" required></select>
+
+  <label>Descrição:</label>
+  <input type="text" id="descricao" required>
+
+  <label>Valor:</label>
+  <input type="number" id="valor" step="0.01" required>
+
+  <button type="submit">Adicionar</button>
+</form>

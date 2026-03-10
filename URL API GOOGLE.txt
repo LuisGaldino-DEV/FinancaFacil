@@ -1,0 +1,26 @@
+App da Web
+URL
+https://script.google.com/macros/s/AKfycbwdbgv5u_NQ-eW2AOs7P54FKiK7KoLAUqbUGvIjsHoN2oyjg1vd7AumwlQRSTj2fi9FgA/exec
+-------------------
+
+
+
+
+ABAS ENDPOINTS
+
+https://script.google.com/macros/s/AKfycbwdbgv5u_NQ-eW2AOs7P54FKiK7KoLAUqbUGvIjsHoN2oyjg1vd7AumwlQRSTj2fi9FgA/exec?action=init&email=luisgaldino.dev@gmail.com
+
+https://script.google.com/macros/s/AKfycbwdbgv5u_NQ-eW2AOs7P54FKiK7KoLAUqbUGvIjsHoN2oyjg1vd7AumwlQRSTj2fi9FgA/exec?action=transacoes&email=luisgaldino.dev@gmail.com
+
+https://script.google.com/macros/s/AKfycbwdbgv5u_NQ-eW2AOs7P54FKiK7KoLAUqbUGvIjsHoN2oyjg1vd7AumwlQRSTj2fi9FgA/exec?action=pessoas&email=luisgaldino.dev@gmail.com
+
+https://script.google.com/macros/s/AKfycbwdbgv5u_NQ-eW2AOs7P54FKiK7KoLAUqbUGvIjsHoN2oyjg1vd7AumwlQRSTj2fi9FgA/exec?action=pessoas&email=luisgaldino.dev@gmail.com
+
+https://script.google.com/macros/s/AKfycbwdbgv5u_NQ-eW2AOs7P54FKiK7KoLAUqbUGvIjsHoN2oyjg1vd7AumwlQRSTj2fi9FgA/exec?action=gastos_futuro&email=luisgaldino.dev@gmail.com
+
+?action=dashboard
+
+?action=saldo_contas
+
+?action=previsao_mensal
+
